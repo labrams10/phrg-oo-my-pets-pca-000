@@ -8,3 +8,5 @@ class Cat
     @mood = mood
   end
 end
+
+#small changes to approve lab on learnco
